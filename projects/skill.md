@@ -1,13 +1,13 @@
 ---
 date: 2020-03-26
 thumbnail: "/uploads/photo-1549899615-ef2899a8c02d.jpeg"
-title: SKILL
+title: MY SKILLS
 categories: []
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-I have many skill sets. I graduated as an industrial engineer from [Chulalongkorn university](https://www.chula.ac.th/en/). But my experiences are analyst and developer in E-commerce and E-learning field. The main and my passion is about web development. Especially _fast_ site with minimal payment (This blog is free! I don't have to pay any hosting fee)
+I have many skill sets. I graduated as an industrial engineer from [Chulalongkorn university](https://www.chula.ac.th/en/). But my experiences are analyst and developer in E-commerce and E-learning field. The main and my passion is about web development. Especially _fast_ site with minimal payment (This blog is free! I don't have to pay any hosting fee because the technology I use is allowed me to do that)
 
 ## Development
 

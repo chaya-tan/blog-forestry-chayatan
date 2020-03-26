@@ -7,7 +7,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-I have many skill sets. I graduated as an industrial engineer from [Chulalongkorn university](https://www.chula.ac.th/en/). But my experiences are analyst and developer in E-commerce and E-learning field. The main and my passion is about web development. Especially _fast_ site with minimal payment (This blog is free!)
+I have many skill sets. I graduated as an industrial engineer from [Chulalongkorn university](https://www.chula.ac.th/en/). But my experiences are analyst and developer in E-commerce and E-learning field. The main and my passion is about web development. Especially _fast_ site with minimal payment (This blog is free! I don't have to pay any hosting fee)
 
 ## Development
 
